@@ -1,4 +1,4 @@
-#Práctica de Modelo Lógico Relacional
+# Práctica de Modelo Lógico Relacional
 
 ## Componentes del grupo:
 - Alejandro González Alonso
